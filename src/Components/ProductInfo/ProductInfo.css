@@ -1,0 +1,11 @@
+.justify-center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.padding-20{
+    padding: 20px !important;
+}
+.padding-10{
+    padding: 10px;
+}
